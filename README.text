@@ -1,5 +1,5 @@
 ①下記にてnode_modulesをインストール。（初回のみ）
-$ npm i
+$ npm i gulp -D
 
 ②下記にて起動。
 $ npx gulp
