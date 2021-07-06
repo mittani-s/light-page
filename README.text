@@ -1,5 +1,2 @@
-①：初回のみ下記を実行すること。
-$ npx gulp html
-$ npx gulp sass
-
-
+①下記にて起動。
+$ npx gulp
